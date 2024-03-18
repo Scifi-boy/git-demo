@@ -1,3 +1,4 @@
-hello there !!!
-hello there testing data
+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
+
+git remote set -url origin https://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@github.com/Scifi-boy/git-demo
 
